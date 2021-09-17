@@ -607,6 +607,7 @@ p {
   }
   .video {
     width: 100%;
+		margin: 0;
   }
   .about-content {
     width: 100%;
