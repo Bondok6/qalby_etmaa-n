@@ -1,3 +1,23 @@
 # Qalby_Etmaa`n
 
-[Live Demo](https://qalby-etma2n.herokuapp.com/)
+<!-- ![image preview](imgs/Preview.PNG) -->
+
+
+## Live Demo
+
+> [Live Demo](https://qalby-etma2n.herokuapp.com/)
+
+## Built with
+
+- HTML
+- CSS
+- JavaScript
+
+## Additional Used
+
+- SVG
+- Bootstrap4
+- Google Fonts
+- Font Awesome
+- Heroku 
+
