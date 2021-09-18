@@ -1,6 +1,6 @@
 # Qalby_Etmaa`n
 
-<!-- ![image preview](imgs/Preview.PNG) -->
+![image preview](imgs/Preview.PNG)
 
 
 ## Live Demo
