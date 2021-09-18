@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-> ### [Live Demo Link](https://qalby-etma2n.herokuapp.com/)
+> ### [Live Demo Link "Heroku"](https://qalby-etma2n.herokuapp.com/)
 
 ## Built with
 
@@ -16,9 +16,6 @@
 
 ## Additional Used
 
-- SVG
-- Bootstrap4
+- Heroku for (Deploy)
+- Icons8 for (Icons)
 - Google Fonts
-- Font Awesome
-- Heroku 
-
